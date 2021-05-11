@@ -1,7 +1,7 @@
 name:                bf-interpreter
 version:             0.1.0.0
 github:              "githubuser/bf-interpreter"
-license:             GNUGPL
+license:             GPL-3
 author:              "Author name here"
 maintainer:          "example@example.com"
 copyright:           "2021 Author name here"
